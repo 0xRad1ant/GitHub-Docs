@@ -18,8 +18,8 @@ To put your project on GitHub, you'll need to create a repository for it to resi
    - Clone the repository to your local machine.
 
 **Notes:**
-- For open source projects, include a license file to determine sharing terms.
-- Utilize Open Source Guides and GitHub Skills courses for fostering healthy open source communities.
+- For open-source projects, include a license file to determine sharing terms.
+- Utilize Open Source Guides and GitHub Skills courses to foster healthy open source communities.
 
 ## Committing Changes: Adding a README File
 
